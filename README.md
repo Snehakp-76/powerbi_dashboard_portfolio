@@ -5,11 +5,11 @@ This repository contains interactive Power BI dashboards developed to analyze re
 To analyze pizza sales data and identify key business insights related to revenue performance, customer ordering patterns, product performance, and sales trends.
 
 ## Key KPIs Tracked
-1.Total Revenue: 817.86K
-2.Total Orders: 21,350
-3.Total Pizzas Sold: 49,574
-4.Average Order Value: 38.31
-5.Average Pizzas per Order: 2.32
+  1.Total Revenue: 817.86K
+  2.Total Orders: 21,350
+  3.Total Pizzas Sold: 49,574
+  4.Average Order Value: 38.31
+  5.Average Pizzas per Order: 2.32
 
 ## Dashboard Features
 1.Daily and monthly sales trend analysis to identify peak business periods
