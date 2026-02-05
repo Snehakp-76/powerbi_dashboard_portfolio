@@ -33,3 +33,9 @@ To analyze pizza sales data and identify key business insights related to revenu
 - KPI development and tracking
 - Trend analysis and business insight generation
 - Dashboard design and interactive visualization
+
+## Tools and Technologies Used
+- SQL(data extraction, querying, and validation)
+- Power BI (dashboard development and visualization)
+- Excel (data cleaning and preprocessing)
+- Microsoft Word (documentation and cross-verification of analysis results).
