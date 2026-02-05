@@ -12,24 +12,24 @@ To analyze pizza sales data and identify key business insights related to revenu
 - Average Pizzas per Order: 2.32
 
 ## Dashboard Features
-1.Daily and monthly sales trend analysis to identify peak business periods
-2.Sales performance breakdown by pizza category and pizza size
-3.Identification of best-selling and worst-selling pizzas based on:
-  3.1Revenue
-  3.2Quantity sold
-  3.3Total orders
-4.Category-wise and size-wise contribution to overall revenue
-5.Interactive filters for dynamic analysis
+- Daily and monthly sales trend analysis to identify peak business periods
+- Sales performance breakdown by pizza category and pizza size
+- Identification of best-selling and worst-selling pizzas based on:
+  - Revenue
+  - Quantity sold
+  - Total orders
+- Category-wise and size-wise contribution to overall revenue
+- Interactive filters for dynamic analysis
 
 ## Key Insights Generated
-1.Classic category contributed the highest revenue and total sales
-2.Large size pizzas generated maximum sales revenue
-3.Sales were highest on weekends, especially Friday and Saturday
-4.July and January recorded peak monthly order volumes
-5.Identified top performing pizzas driving business revenue
+- Classic category contributed the highest revenue and total sales
+- Large size pizzas generated maximum sales revenue
+- Sales were highest on weekends, especially Friday and Saturday
+- July and January recorded peak monthly order volumes
+- Identified top performing pizzas driving business revenue
 
 ## Skills Demonstrated
-1.Sales performance analysis
-2.KPI development and tracking
-3.Trend analysis and business insight generation
-4.Dashboard design and interactive visualization
+- Sales performance analysis
+- KPI development and tracking
+- Trend analysis and business insight generation
+- Dashboard design and interactive visualization
